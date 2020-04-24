@@ -120,7 +120,7 @@ At the Department of English and Creative Writing, Lancaster, I am technical lea
         </tr>
         <tr>
             <td>Forthcoming</td>
-            <td>‘Downriver’s Flaneurs’.</td>
+            <td>‘Downriver’s Flaneurs’</td>
         </tr>
         <tr>
             <td>2020</td>
