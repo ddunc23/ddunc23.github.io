@@ -1,7 +1,8 @@
----A
+---
 layout: default
 permalink: /projects/tales-of-the-park/
 title: Tales of the Park
+banner: /assets/images/tales-banner.jpg
 ---
 
 Tales of the Park was what the philosopher Iain Bogost calls a ‘serious game’ designed to help people explore some of the privacy and security issues raised by Internet of Things (Iot) technologies. 

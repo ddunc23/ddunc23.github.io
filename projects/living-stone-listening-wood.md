@@ -2,6 +2,7 @@
 layout: default
 permalink: /projects/listening-wood-living-stone/
 title: The Listening Wood / The Living Stone
+banner: /assets/images/living-stone-banner.jpg
 ---
 
 The Living Stone and the Listening Wood are a pair of locative digital installations conceived and designed by artist [Leah Lovett](http://www.leahlovett.co.uk/) which Internet of Things technologies to deepen people's experience of place.

@@ -2,6 +2,7 @@
 layout: default
 permalink: /projects/memory-map-jewish-east-end/
 title: A Memory Map of the Jewish East End
+banner: /assets/images/jeemm-banner.jpg
 ---
 
 [The Memory Map of the Jewish East End](https://jewisheastendmemorymap.org/) is an interactive map of the history of the Jewish community in East London, and is a collaboration between the artist and writer [Rachel Lichtenstein](https://rachellichtenstein.com/) and Dr Duncan Hay, Professor Laura Vaughan, and Peter Guillery, from three research units from the [Bartlett Faculty for the Built Environment](https://www.ucl.ac.uk/bartlett/), University College London: the [Centre for Advanced Spatial Analysis](https://www.ucl.ac.uk/bartlett/casa/), the [Space Syntax Laboratory](https://www.ucl.ac.uk/bartlett/architecture/research/space-syntax-laboratory), and the [Survey of London](https://www.ucl.ac.uk/bartlett/architecture/research/survey-london), respectively.
