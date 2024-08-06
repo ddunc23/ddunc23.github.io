@@ -2,6 +2,7 @@
 layout: default
 permalink: /cv/
 title: CV
+banner: /assets/images/toastrack-manchester-small.jpg
 ---
 
 ## Dr Duncan Hay
