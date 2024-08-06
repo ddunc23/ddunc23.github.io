@@ -8,9 +8,11 @@ title: CV
 
 My research focuses on the relationship between culture, space, and technology. My PhD thesis examined the work of the London-based writer and filmmaker Iain Sinclair. Drawing heavily on the work of Walter Benjamin, the writings of the Situationist International, and Fredric Jameson, it reads his poetry and prose as an attempt to rediscover writing as a political, socially-oriented praxis in the wake of the failure of the 20th Century avant-gardes to achieve their revolutionary aims. 
 
-In addition to my critical scholarship, I have high-level skills in digital humanities methodologies, particularly web-based mapping and data visualisation. I currently hold two research fellowships at University College London and Lancaster University. At the Bartlett Centre for Advanced Spatial Analysis, UCL, I have been lead designer and developer on [the Survey of London Whitechapel Initiative](https://surveyoflondon.org/), an interdisciplinary project drawing on expertise in architectural history, data visualisation and GIS. The site, designed to disseminate the Survey of London's research into the history of Whitechapel and to facilitate contributions from the public in the form of writing, memories, and images, is an experiment in how we might use digital tools to engage audiences beyond the academy in the production of historical research. Drawing on this work, I am currently Principal Investigator on the [Memory Map of the Jewish East End](https://www.ucl.ac.uk/bartlett/casa/research/current-projects/memory-map-jewish-east-end), which uses the technology developed for the Survey of London for a new map documenting the history of Jewish culture in East London. 
+In addition to my critical scholarship, I have high-level skills in digital humanities methodologies, particularly web-based mapping and data visualisation. I am currently Senior Research Fellow at the Bartlett Centre for Advanced Spatial Analysis, UCL, I have been lead designer and developer on [the Survey of London Whitechapel Initiative](https://surveyoflondon.org/), an interdisciplinary project drawing on expertise in architectural history, data visualisation and GIS.
 
-At the Department of English and Creative Writing, Lancaster, I am technical lead on [Chronotopic Cartographies](https://www.lancaster.ac.uk/chronotopic-cartographies/), which uses network analysis and Mikhail Bakhtin’s notion of the ‘chronotope’ to generate data visualisations of the spatiality and temporality of the literary text.
+I am currently Principal Investigator for [Memory Mapper](https://memorymapper.github.io/), an open-source web mapping builds upon learning from the Survey of London Whitechapel project.
+
+In addition to my work at UCL, I have held Research Associate positions at the Department of English and Creative Writing, Lancaster, and the Sussex Humanities Lab. At Lancaster, I was technical lead on [Chronotopic Cartographies](https://www.lancaster.ac.uk/chronotopic-cartographies/), which uses network analysis and Mikhail Bakhtin’s notion of the ‘chronotope’ to generate data visualisations of the spatiality and temporality of the literary text. At Sussex, I was responsible for implementing a linked open data solution for the [Tools of Knowledge](https://toolsofknowledge.org/) project.
 
 ---
 
@@ -19,11 +21,19 @@ At the Department of English and Creative Writing, Lancaster, I am technical lea
 <table class="table table-borderless">
     <tbody>
         <tr>
-            <td>2016 – present</td>
+            <td>2022 – present</td>
+            <td>Senior Research Fellow, Bartlett Centre for Advanced Spatial Analysis, University College London</td>
+        </tr>
+        <tr>
+            <td>2016 – 2022</td>
             <td>Research Fellow, Bartlett Centre for Advanced Spatial Analysis, University College London</td>
         </tr>
         <tr>
-            <td>2018 - present</td>
+            <td>2021 - 2023</td>
+            <td>Research Associate, Sussex Humanities Lab, Sussex University</td>
+        </tr>
+        <tr>
+            <td>2018 - 2021</td>
             <td>Research Associate, Department for English and Creative Writing, Lancaster University</td>
         </tr>
         <tr>
@@ -63,13 +73,12 @@ At the Department of English and Creative Writing, Lancaster, I am technical lea
 
 ## Publications
 
-<br />
-### Major Project Outputs
+#### Major Project Outputs
 
 <table class="table table-borderless">
     <tbody>
         <tr>
-            <td>Ongoing</td>
+            <td>2020-2023</td>
             <td>with Sally Bushell, James Butler, and Rebecca Hutcheon, Chronotopic Cartographies (https://lancaster.ac.uk/chronotopic-cartographies). Data visualisations and digital tools for literary mapping. Research Associate with responsibility for conceptual design (with other members of the team) and data visualisation using Python and Javascript; website design, UX and code.</td>
         </tr>
         <tr>
@@ -91,7 +100,7 @@ At the Department of English and Creative Writing, Lancaster, I am technical lea
     </tbody>
 </table>
 
-### Book Chapters
+#### Book Chapters
 
 <table class="table table-borderless">
     <tbody>
@@ -110,7 +119,7 @@ At the Department of English and Creative Writing, Lancaster, I am technical lea
     </tbody>
 </table>
 
-### Journal Articles
+#### Journal Articles
 
 <table class="table table-borderless">
     <tbody>
@@ -136,9 +145,7 @@ At the Department of English and Creative Writing, Lancaster, I am technical lea
 ---
 
 ## Technical Skills
-
 - Server-side web development (Python/Django, Postgres, MySQL, Wordpress)
-- Client-side web development (html, Javascript, css)
-- Web mapping (Leaflet.js, MapboxGL.js)
+- Client-side web development (React/Next.js, html, Javascript, css)
+- GIS and web mapping (Leaflet.js, MapboxGL.js, MapLibre, QGIS)
 - Network analysis (NetworkX, Gephi)
-- Media production (Adobe Photoshop, Illustrator, Final Cut)

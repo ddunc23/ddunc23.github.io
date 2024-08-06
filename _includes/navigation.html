@@ -16,6 +16,16 @@
                     {% endfor %}
                 </div>
             </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Teaching
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    {% for item in site.data.teaching %}
+                    <a class="dropdown-item" href="{{ item.link }}">{{ item.name }}</a>
+                    {% endfor %}
+                </div>
+            </li>
         </ul>
     </div> 
 </nav>

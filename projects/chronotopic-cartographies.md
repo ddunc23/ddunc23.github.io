@@ -9,17 +9,17 @@ banner: /assets/images/chronotopic-cartographies-banner.svg
 
 --- 
 
-## Role
+### Role
 
 Research Associate. Data visualisation, website design, UX and code.
 
-## Collaborators
+### Collaborators
 
 - Professor Sally Bushell (Principal Investigator)
 - Dr James Butler (Research Associate)
 - Dr Rebecca Hutcheon (Research Associate)
 
-## Outputs
+### Outputs
 
 - [Toolkit](https://notebooks.azure.com/d-hay1/projects/chronocarto-text-vis-gen)
 - Bushell et. al, 'Literary Topology I: Visualising and Reading Graphs as Maps for Literature' (forthcoming, 2020).

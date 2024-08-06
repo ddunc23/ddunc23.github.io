@@ -1,7 +1,7 @@
 - name: Chronotopic Cartographies
   link: /projects/chronotopic-cartographies/
   thumbnail: /assets/images/chronotopic-cartographies-thumb.jpg
-- name: Memory Map Toolkit
+- name: Memory Mapper
   link: /projects/memory-map-toolkit/
   thumbnail: /assets/images/memory-map-logo.jpg
 - name: A Memory Map of the Jewish East End
@@ -19,3 +19,6 @@
 - name: Playing the Archive
   link: /projects/time-telephone/
   thumbnail: /assets/images/time-telephone.jpg
+- name: British Monuments Related to Slavery
+  link: /projects/british-slavery-monuments/
+  thumbnail: /assets/images/monuments-thumb.png
