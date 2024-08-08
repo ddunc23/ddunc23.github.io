@@ -67,12 +67,12 @@ We should be finished for 4pm each day.
         <tr>
             <td>10.00-13:00</td>
             <td>Working with Sensors with Prof. Duncan Wilson and Dr. Leah Lovett</td>
-            <td>One Pool Street, Room 107</td>
+            <td>One Pool Street, Room 106</td>
         </tr>
         <tr>
             <td>14.00-16:00</td>
             <td>Programming A Sensor</td>
-            <td>One Pool Street, Room 107</td>
+            <td>One Pool Street, Room 106</td>
         </tr>
         <!-- Wednesday -->
         <tr>
