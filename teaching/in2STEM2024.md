@@ -90,7 +90,7 @@ We should be finished for 4pm each day.
             <td>10.00-13.00</td>
             <td>Conceptualising Gentrification with Prof. Jon Reades and Prof. Adam Dennett</td>
             <td>One Pool Street, Room 106</td>
-            <td></td>
+            <td><a href="/assets/files/In2Science2024.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>14.00-16:00</td>
