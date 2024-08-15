@@ -52,7 +52,7 @@ We should be finished for 4pm each day.
             <td>12.00</td>
             <td>Complex Networks with Prof. Elsa Arcaute</td>
             <td>One Pool Street, Room 106</td>
-            <td></td>
+            <td><a href="/assets/files/In2Science2022_Arcaute-sm.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>13.00</td>
