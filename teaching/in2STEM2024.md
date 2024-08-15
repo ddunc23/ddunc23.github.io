@@ -28,97 +28,106 @@ We should be finished for 4pm each day.
             <th>Time</th>
             <th>Activity</th>
             <th>Location</th>
+            <th>Resources</th>
         </tr>
     </thead>
     <tbody>
         <!-- Monday -->
         <tr>
-            <td colspan="3" class="text-center"><strong>Monday 12th: Introduction</strong></td>
+            <td colspan="4" class="text-center"><strong>Monday 12th: Introduction</strong></td>
         </tr>
         <tr>
             <td>10.00</td>
             <td>Welcome and Introductions</td>
             <td>One Pool Street, Room 106</td>
+            <td><a href="/assets/files/in2stem-intro-dh-v1-2024-08-07.pdf">Slides</a></td>
         </tr>
         <tr>
             <td>11.30</td>
             <td>Break</td>
+            <td></td>
             <td></td>
         </tr>
         <tr>
             <td>12.00</td>
             <td>Complex Networks with Prof. Elsa Arcaute</td>
             <td>One Pool Street, Room 106</td>
+            <td></td>
         </tr>
         <tr>
             <td>13.00</td>
             <td>Lunch (We'll break at this time every day)</td>
             <td>Marshgate Cafeteria</td>
+            <td></td>
         </tr>
         <tr>
             <td>14.00-16:00</td>
             <td>Thinking With Maps with Dr. Duncan Hay</td>
             <td>One Pool Street, Room 106</td>
+            <td><a href="/assets/files/in2stem-mapping-dh-v1-2024-08-08.pdf">Slides</a></td>
         </tr>
         <!-- Tuesday -->
         <tr>
-            <td colspan="3" class="text-center"><strong>Tuesday 13th: Sensing Urban Data</strong></td>
+            <td colspan="4" class="text-center"><strong>Tuesday 13th: Sensing Urban Data</strong></td>
         </tr>
         <tr>
             <td>10.00-13:00</td>
             <td>Working with Sensors with Prof. Duncan Wilson and Dr. Leah Lovett</td>
             <td>One Pool Street, Room 106</td>
+            <td></td>
         </tr>
         <tr>
             <td>14.00-16:00</td>
             <td>Programming A Sensor</td>
             <td>One Pool Street, Room 106</td>
+            <td></td>
         </tr>
         <!-- Wednesday -->
         <tr>
-            <td colspan="3" class="text-center"><strong>Wednesday 14th: Gentrification I</strong></td>
+            <td colspan="4" class="text-center"><strong>Wednesday 14th: Gentrification I</strong></td>
         </tr>
         <tr>
             <td>10.00-13.00</td>
             <td>Conceptualising Gentrification with Prof. Jon Reades and Prof. Adam Dennett</td>
             <td>One Pool Street, Room 106</td>
+            <td></td>
         </tr>
         <tr>
             <td>14.00-16:00</td>
             <td>Field Trip: Gentrification in East London</td>
             <td>Hackney Wick (Meet One Pool Street, Room 106)</td>
+            <td></td>
         </tr>
         <!-- Thursday -->
         <tr>
-            <td colspan="3" class="text-center"><strong>Thursday 15th: Gentrification II</strong></td>
+            <td colspan="4" class="text-center"><strong>Thursday 15th: Gentrification II</strong></td>
         </tr>
         <tr>
             <td>10.00</td>
             <td>Mapping Gentrification with Memory Mapper with Dr. Duncan Hay</td>
             <td>One Pool Street, Room 106</td>
+            <td><a href="https://in2stem.memorymapper.org">Memory Map</a></td>
         </tr>
         <tr>
             <td>14.00-16:00</td>
             <td>Simulating Neighbourhood Change</td>
             <td>One Pool Street, Room 106</td>
+            <td>
+                <a href="https://ccl.northwestern.edu/netlogo/">Netlogo</a><br />
+                <a href="/assets/files/In2Science.nlogo">Improved Segregation Model</a>
+            </td>
         </tr>
         <!-- Friday -->
         <tr>
-            <td colspan="3" class="text-center"><strong>Friday 16th: Wrap-up and Presentations</strong></td>
+            <td colspan="4" class="text-center"><strong>Friday 16th: Wrap-up and Presentations</strong></td>
         </tr>
         <tr>
             <td>10.00-13.00</td>
             <td>Reflection and Write Up</td>
             <td>One Pool Street, Room 106</td>
-        </tr>
-        <tr>
-            <td>14.00-16:00</td>
-            <td>Presentations</td>
-            <td>One Pool Street, Room 106</td>
+            <td><a href="https://www.ucl.ac.uk/bartlett/casa/news/2022/aug/level-students-blog-in2science-week-casa">Last year's blog post</a></td>
         </tr>
     </tbody>
 </table>
-
-<hr />
 
 <p class="small">Photo by <a href="https://unsplash.com/@reganography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samuel Regan-Asante</a> on <a href="https://unsplash.com/photos/people-sitting-on-boat-during-daytime-71LKBMPkrd4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
