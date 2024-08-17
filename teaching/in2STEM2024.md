@@ -130,9 +130,4 @@ We should be finished for 4pm each day.
     </tbody>
 </table>
 
----
-### Evaluation
-
-[Miro Board Link](https://miro.com/app/board/uXjVKpMZnZ8=/?share_link_id=750103627056)
-
 <p class="small">Photo by <a href="https://unsplash.com/@reganography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samuel Regan-Asante</a> on <a href="https://unsplash.com/photos/people-sitting-on-boat-during-daytime-71LKBMPkrd4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
