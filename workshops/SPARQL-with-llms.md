@@ -6,8 +6,6 @@ banner: /assets/images/dawid-zawila-E9b5kcgCR9Y-unsplash.jpg
 ---
 
 
-# Linked Pasts 2025 Workshop
-
 ## Writing SPARQL queries with GitHub Copilot
 
 __Format: 1.5 hour online workshop__
