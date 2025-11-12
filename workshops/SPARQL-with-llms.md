@@ -7,7 +7,9 @@ banner: /assets/images/dawid-zawila-E9b5kcgCR9Y-unsplash.jpg
 
 
 __Format: 1.5 hour online workshop__
+
 __Date and Time: 12/12/2025, 2-3.30pm UK time (UTC+00:00)__
+
 __Convenor: Duncan Hay, University College London__
 
 As many people working with Linked Open Data will attest, writing SPARQL queries is hard. Happily, Large Language Models, especially tools such as GitHub Copilot, are very good it. In this workshop, you will be introduced to how to set up and use Visual Studio Code and Github Copilot to write SPARQL queries and test them against the Tools of Knowledge database of scientific instrument makers. 
