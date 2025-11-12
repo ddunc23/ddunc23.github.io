@@ -6,6 +6,10 @@ banner: /assets/images/dawid-zawila-E9b5kcgCR9Y-unsplash.jpg
 ---
 
 
+# Linked Pasts 2025 Workshop
+
+## Writing SPARQL queries with GitHub Copilot
+
 __Format: 1.5 hour online workshop__
 
 __Date and Time: 12/12/2025, 2-3.30pm UK time (UTC+00:00)__
