@@ -22,10 +22,10 @@ After the demo and a chance to run your own queries, we will conduct a facilitat
 ### Prerequisites
 
 Before the session, you should have:
-- Visual Studio Code installed on your computer (https://code.visualstudio.com/)
-- A GitHub Account. (If you are affiliated with a University you should be able to get an Education account which gives you very generous usage limits with Github Copilot. See here: https://github.com/education/teachers or here: https://github.com/education/students.)
-- Git installed on your computer (https://desktop.github.com/download/)
-- The GitHub Copilot extension installed in Visual Studio Code (https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- Visual Studio Code installed on your computer [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- A GitHub Account. If you are affiliated with a University you should be able to get an Education account which gives you very generous usage limits with Github Copilot. See here: [https://github.com/education/teachers](https://github.com/education/teachers) or here: [https://github.com/education/students](https://github.com/education/students).
+- Git installed on your computer [https://desktop.github.com/download/](https://desktop.github.com/download/)
+- The GitHub Copilot extension installed in Visual Studio Code [https://marketplace.visualstudio.com/items?itemName=GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 
 
 
